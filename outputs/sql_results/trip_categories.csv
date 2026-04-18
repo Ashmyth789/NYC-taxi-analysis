@@ -1,0 +1,4 @@
+trip_category,trips,avg_revenue
+Long (10+ mi),281236,75.82
+Medium (2-10 mi),1439465,33.53
+Short (<2 mi),2004188,19.51
