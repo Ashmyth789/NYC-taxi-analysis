@@ -1,5 +1,6 @@
 data/
 venv/
+outputs/cleaned_data.csv
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
