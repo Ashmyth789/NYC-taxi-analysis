@@ -21,14 +21,14 @@ An end-to-end Data Analytics project on 3.7M+ real NYC taxi records (January 202
 
 ## Project Structure
 nyc-taxi-analysis/
-├── data/              # Raw parquet file (not uploaded — too large)
-├── sql/               # All SQL queries
-├── notebooks/         # Jupyter notebook: EDA + ML
-├── outputs/
-│   ├── charts/        # 7 saved visualizations
-│   └── sql_results/   # 7 SQL query result CSVs
-├── powerbi/           # Dashboard screenshot
-└── README.md
+── data/              # Raw parquet file (not uploaded — too large)
+── sql/               # All SQL queries
+── notebooks/         # Jupyter notebook: EDA + ML
+── outputs/
+   ├── charts/        # 7 saved visualizations
+   └── sql_results/   # 7 SQL query result CSVs
+── powerbi/           # Dashboard screenshot
+── README.md
 
 ## How to Run
 1. Download January 2026 Yellow Taxi data from [TLC Trip Records](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
