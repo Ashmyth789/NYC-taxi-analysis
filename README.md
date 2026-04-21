@@ -14,6 +14,9 @@ An end-to-end Data Analytics project on 3.7M+ real NYC taxi records (January 202
 | Linear Regression | ~$2.5 | ~0.89 |
 | Random Forest | ~$1.8 | ~0.93 |
 
+##Dashboard
+![Dashboard](powerbi/dashboard_screenshot.png)
+
 ## Key Findings
 - Peak demand is between 6–8 PM on weekdays
 - Trip distance is the strongest predictor of fare amount
@@ -29,3 +32,6 @@ An end-to-end Data Analytics project on 3.7M+ real NYC taxi records (January 202
 - Source: NYC Taxi & Limousine Commission (TLC)
 - Period: January 2026
 - Size: 3,724,889 rows × 20 columns
+
+
+
