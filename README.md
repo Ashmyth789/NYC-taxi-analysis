@@ -14,7 +14,7 @@ An end-to-end Data Analytics project on 3.7M+ real NYC taxi records (January 202
 | Linear Regression | ~$2.5 | ~0.89 |
 | Random Forest | ~$1.8 | ~0.93 |
 
-##Dashboard
+## Dashboard
 ![Dashboard](powerbi/dashboard_screenshot.png)
 
 ## Key Findings
